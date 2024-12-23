@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671054800312",
+    "project_id": "bhnew-a2336",
+    "storage_bucket": "bhnew-a2336.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671054800312:android:18d98a3232bb3b51e8db4d",
+        "android_client_info": {
+          "package_name": "com.example.bhnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEgifSbxUBQ_xcCwDuw8rMhypvBD1vwHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
