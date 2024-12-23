@@ -35,6 +35,12 @@ import com.example.bhnew.component.NavBar
 import com.example.bhnew.popin
 import com.google.firebase.firestore.FirebaseFirestore
 
+/*
+Nama Anggota
+1. Rama (22523059)
+2. Anugrah Prima Pratama (22523240)
+3. Naufal Rafi Hidayat(22523285)
+*/
 @Composable
 fun Main(navcontroller: NavController) {
     val context = LocalContext.current
